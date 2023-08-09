@@ -205,14 +205,7 @@ def jogo():
     print("SEU INTERIOR.")
     print("")
  
-    jogabilidade()
-
-
-
-
-if __name__ == "__main__":
-    jogo()
-
+   
 
 
 
